@@ -22,3 +22,26 @@
   - **Language:** The tutorial must be in English.
   - **Tutorial Inclusion:** Accepted tutorials will be added to the repository.
   - **Submission Method:** Submit via a GitHub pull request + a form with your files and a 3-minute Youtube pitch video.
+
+## PROJECT DESCRIPTION
+
+![generate_reports_using_llms](/images/Reporting_Agent.png)
+
+### Data Analysis Report Generation Agent | Transforming Data into Insightful Reports
+
+The `aim` is to create an `intelligent multi-agent system` that simplifies the process of generating comprehensive `data analysis reports` using **LLM Agents**.
+
+#### Project Goals:
+
+- **Automated Report Generation:** Streamline the creation of detailed `data analysis reports`.
+
+- **Easy Data Interpretation:** Provide clear and actionable insights from complex datasets for `non-technical stakeholders`.
+
+#### Tech Stack:
+
+**`TBD`**
+
+
+
+
+
